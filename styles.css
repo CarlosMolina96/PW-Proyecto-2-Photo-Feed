@@ -1,0 +1,152 @@
+body {
+	background: rgb(2,0,36);
+  background: linear-gradient(90deg,rgba(0, 81, 255, 0.5) 0%, rgba(69, 255, 153, 0.5) 35%, rgba(0, 255, 98, 0.5) 100%);
+	justify-content: center;
+  display:grid;
+}
+
+.div1 {
+	width: 600px;
+	background: rgba(255, 235, 168, 0.795);
+  text-align: center;
+  vertical-align: middle;
+  border-radius: 15px;
+  display: grid;
+  margin-top: -15px;
+  position: sticky;
+  top: 10px;
+}
+
+.degradado {
+  background: -webkit-linear-gradient(blue, rgb(9, 255, 0));
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  font-size: 50px;
+}
+
+.degradado2 {
+  background: -webkit-linear-gradient(blue, rgb(9, 255, 9));
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  font-size: 25PX;
+}
+
+.div2 {
+	width: 600px;
+	background: rgb(255, 242, 197);
+  vertical-align:middle;
+  font: oblique bold 80% cursive;
+  border-radius: 15px;
+  margin-top: 20px;
+  height: 600px;
+  text-align: center;
+}
+
+.div2s1 {
+  font-size: x-large;
+}
+
+.div2s2 {
+  font-size:small;
+}
+
+.div2s3 {
+  font-size:large;
+  text-align: center;
+}
+
+.div3 {
+	width: 600px;
+	background: rgb(255, 242, 197);
+  vertical-align:middle;
+  font: oblique bold 80% cursive;
+  border-radius: 15px;
+  margin-top: 20px;
+  height: 600px;
+  text-align: center;
+}
+
+.div3s1 {
+  font-size: x-large;
+}
+
+.div3s2 {
+  font-size:small;
+}
+
+.div3s3 {
+  font-size:large;
+  text-align: center;
+}
+
+.div4 {
+	width: 600px;
+	background: rgb(255, 242, 197);
+  vertical-align:middle;
+  font: oblique bold 80% cursive;
+  border-radius: 15px;
+  margin-top: 20px;
+  height: 600px;
+  text-align: center;
+}
+
+.div4s1 {
+  font-size: x-large;
+}
+
+.div4s2 {
+  font-size:small;
+}
+
+.div4s3 {
+  font-size:large;
+  text-align: center;
+}
+
+.div5 {
+	width: 600px;
+  background: rgb(255, 242, 197);
+  vertical-align:middle;
+  font: oblique bold 80% cursive;
+  border-radius: 15px;
+  margin-top: 20px;
+  height: 600px;
+  text-align: center;
+}
+
+.div5s1 {
+  font-size: x-large;
+}
+
+.div5s2 {
+  font-size:small;
+}
+
+.div5s3 {
+  font-size:large;
+  text-align: center;
+}
+
+.div6 {
+	width: 600px;
+  background: rgb(255, 242, 197);
+  vertical-align:middle;
+  font: oblique bold 80% cursive;
+  border-radius: 15px;
+  margin-top: 20px;
+  height: 600px;
+  text-align: center;
+}
+
+.div6s1 {
+  font-size: x-large;
+}
+
+.div6s2 {
+  font-size:small;
+}
+
+.div6s3 {
+  font-size:large;
+  text-align: center;
+}
